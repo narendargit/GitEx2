@@ -22,6 +22,8 @@
     lbl.text = @"git sample";
     [self.view addSubview:lbl];
     
+    NSLog(@"log");
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
