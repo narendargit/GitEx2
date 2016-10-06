@@ -23,6 +23,9 @@
     [self.view addSubview:lbl];
     
     NSLog(@"log");
+    NSLog(@"logdsjgvfhgjkerz");
+
+    
     
     // Do any additional setup after loading the view, typically from a nib.
 }
